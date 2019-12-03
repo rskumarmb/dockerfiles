@@ -40,6 +40,10 @@
         "text-unidecode": {
             "license": "License :: Artistic License",
             "url": "https://github.com/kmike/text-unidecode/blob/master/LICENSE"
+        },
+        "orderedmultidict": {
+            "license": "License :: Unlicense",
+            "url": "https://github.com/gruns/orderedmultidict/blob/master/LICENSE.md"
         }
     }
 }
