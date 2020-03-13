@@ -87,10 +87,10 @@
         },
         "pdf2image": {
             "hashes": [
-                "sha256:787f6dd77dc02786913fd4ee5766bb9241fe807e3c6ee90e3cff18bcf2f23555"
+                "sha256:a0d9906f5507192210a8d5d7ead63145e9dec4bccc4564b1fb644e923913c31c"
             ],
             "index": "pypi",
-            "version": "==1.11.0"
+            "version": "==1.12.1"
         },
         "pillow": {
             "hashes": [
